@@ -7,4 +7,6 @@ MySql Workbench
 Bootstrap
 Sublime text editor
 
+Made by Matija Prugovečki
+
 
