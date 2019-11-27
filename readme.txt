@@ -13,6 +13,9 @@ MySql Workbench
 Bootstrap
 Sublime text editor
 
+http://ispeh.com/php/projekti/travels/public/
+
+Special and biggest thanks to professor Ivan Špeh for hosting and sharing his knowledge! :)
 Made by Matija Prugovečki
 
 
