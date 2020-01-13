@@ -15,7 +15,7 @@ Sublime text editor
 
 http://ispeh.com/php/projekti/travels/public/
 
-Special and biggest thanks to professor Ivan Špeh for hosting and sharing his knowledge! :)
+Special and biggest thanks to professor Ivan Špeh for hosting and shareing his knowledge! :)
 Made by Matija Prugovečki
 
 
